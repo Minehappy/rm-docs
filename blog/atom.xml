@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://minehappy.github.io/blog"/>
     <subtitle>Roblox Memes Documentation Blog</subtitle>
-    <icon>https://minehappy.github.io/img/favicon.ico</icon>
+    <icon>https://minehappy.github.io/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
